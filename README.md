@@ -1,7 +1,14 @@
-Hi, I'm Manav — Aspiring Data Scientist
+# Hi, I'm Manav — Aspiring Data Scientist
+
 I document everything I build and learn, right here on GitHub.
-Skills
+
+---
+
+## Skills
 Python · Pandas · SQL · Statistics · Matplotlib · Seaborn · Git
-Contact
-📧 shahmanav135@gmail.com
-🔗 www.linkedin.com/in/manav-shah-61b42122b
+
+---
+
+## Contact
+- 📧 shahmanav135@gmail.com
+- 🔗 [linkedin.com/in/manav-shah-61b42122b](https://linkedin.com/in/manav-shah-61b42122b)
